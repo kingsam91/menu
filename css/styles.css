@@ -1,5 +1,7 @@
 * {
   text-align: center;
+  color: white;
+
 }
 
 h1 {
@@ -13,4 +15,7 @@ h1 {
 #price {
   display: none;
   font-family: 'Sacramento', cursive;
+}
+body {
+  background-image: url(../images/osiri.jpg);
 }
