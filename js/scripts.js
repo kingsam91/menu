@@ -28,8 +28,7 @@ $("document").ready(function(){
                   names.push('Liver')
                 }
             });
-
-prompt("xxx");
+            
             $("#amount").text(favorite);
             $("#food").text(names.toString());
             $("#price").show();
